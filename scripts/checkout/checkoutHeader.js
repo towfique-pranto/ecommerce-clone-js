@@ -8,7 +8,7 @@ export function renderCheckoutHeader() {
   htmlHeader.innerHTML = `
   Checkout (<a
             class="return-to-home-link js-return-to-home"
-            href="index.html"
+            href="/"
           >${cartQuantity} ${cartQuantity === 1 ? 'item' : 'items'}</a
           >)
   `

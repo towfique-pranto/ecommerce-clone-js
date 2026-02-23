@@ -113,7 +113,7 @@ const searchButton = document.querySelector('.js-search-button');
 
 function handleSearch() {
   const inputValue = document.querySelector(".js-search-bar").value;
-  window.location.href = `index.html?search=${inputValue}`;
+  window.location.href = `/?search=${inputValue}`;
 }
 
 searchButton.addEventListener('click', () => {
