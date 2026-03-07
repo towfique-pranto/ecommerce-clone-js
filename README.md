@@ -2,7 +2,7 @@
 
 A multi-page Amazon-style storefront built with Vanilla JavaScript, HTML, and CSS. 
 
-# It is not affiliated with Amazon and does not process real payments.
+## It is not affiliated with Amazon and does not process real payments.
 
 [Live Demo](https://towfique-pranto.github.io/amazon-ui-clone/)
 
