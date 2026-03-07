@@ -1,4 +1,4 @@
-# JavaScript Amazon Project
+# JavaScript Amazon UI Clone – Frontend practice project
 
 A multi-page Amazon-style storefront built with Vanilla JavaScript, HTML, and CSS.
 
