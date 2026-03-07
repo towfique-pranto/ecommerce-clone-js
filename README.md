@@ -2,7 +2,7 @@
 
 A multi-page Amazon-style storefront built with Vanilla JavaScript, HTML, and CSS.
 
-[Live Demo](https://towfique-pranto.github.io/javascript-amazon-project/)
+[Live Demo](https://towfique-pranto.github.io/amazon-ui-clone/)
 
 This project is part of the broader coursework in:
 `https://github.com/towfique-pranto/javascript-course-work`
