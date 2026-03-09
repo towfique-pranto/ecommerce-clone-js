@@ -4,7 +4,7 @@ A multi-page Amazon-style ecommerce website built with Vanilla JavaScript, HTML,
 
 ## It is not affiliated with Amazon and does not process real payments.
 
-[Live Demo](https://towfique-pranto.github.io/amazon-ui-clone/)
+[Live Demo](https://towfique-pranto.github.io/ecommerce-clone-js/)
 
 This project is part of the broader coursework in:
 `https://github.com/towfique-pranto/javascript-course-work`
